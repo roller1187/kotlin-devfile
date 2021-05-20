@@ -5,7 +5,7 @@ metadata:
 projects:
   - name: rest-kotlin-quickstart
     source:
-      location: 'https://github.com/blues-man/rest-kotlin-quickstart.git'
+      location: 'https://github.com/roller1187/kotlin-devfile.git'
       type: git
       branch: master
 components:

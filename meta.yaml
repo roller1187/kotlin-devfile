@@ -1,3 +1,4 @@
+apiVersion: v2
 publisher: fwcd
 name: vscode-kotlin
 version: 0.2.18
